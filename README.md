@@ -21,7 +21,7 @@
 - Intro text and project goals.
 - Import libraries.
 - Create function to import file and separate into lists.
-- Create dictionary of dictionaries.
+- Create dictionaries with keys as different attributes.
 - Introduce analysis questions.
 - Build class with methods.
 - Create class instance.
