@@ -10,7 +10,7 @@
 
 ### More Analysis
 - Find average and/or range of costs when within healthy BMI.
-- Find how much is saved on average when not smoking.
+- Find how much is saved on average when not smoking
 - Find most/least expensive region of the country.
 - How does the number of children affect cost?
 - Is male or female insurance more expensive?
@@ -21,8 +21,10 @@
 - Intro text and project goals.
 - Import libraries.
 - Create function to import file and separate into lists.
-- Create dictionaries with keys as different attributes.
 - Introduce analysis questions.
 - Build class with methods.
 - Create class instance.
 - Record answers to questions.
+
+To-Do:
+- add make_dict() method to PatientsInfo
