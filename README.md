@@ -8,7 +8,7 @@
 - Create functions to organize dictionary by different values.
 - Create functions to find max/mins of different values.
 
-### More Analysis
+### Analysis
 - Find average and/or range of costs when within healthy BMI.
 - Find how much is saved on average when not smoking
 - Find most/least expensive region of the country.
@@ -25,6 +25,3 @@
 - Build class with methods.
 - Create class instance.
 - Record answers to questions.
-
-To-Do:
-- add make_dict() method to PatientsInfo
